@@ -5,3 +5,4 @@ __pycache__/
 .cognee/
 .DS_Store
 my_skills/writer/SKILL.md.v0
+data/seed.json

@@ -64,8 +64,8 @@ Five things judges (Cognee engineers) will reward, ranked:
 
 **Real (~20 from Morris's Gmail, extracted via Gmail MCP):**
 - 10 cold sends from June 5 ("Frisst Bürokram noch viel Zeit?") — all silent or auto-responder
-- 1 fully cold ("HandwerkerCRM für Die Bauprofis DB", Dachdecker Lüneburg) — silent
-- ~10 post-call follow-ups ("wie versprochen") — mostly silent, one forwarded internally (Fliesenpartner)
+- 1 fully cold ("HandwerkerCRM für Die [anonymized-prospect]", Dachdecker Lüneburg) — silent
+- ~10 post-call follow-ups ("wie versprochen") — mostly silent, one forwarded internally ([anonymized-prospect])
 - **Key insight already in the data:** the only positive signal came from a post-call email. Cold-without-call = silence.
 
 **Synthetic (~80 generated via the LLM at runtime):**
