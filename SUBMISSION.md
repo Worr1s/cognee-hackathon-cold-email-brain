@@ -296,8 +296,7 @@ LLM_MODEL           # default: gpt-4o-mini
 
 ## Links
 
-- Repo: *(GitHub link to be added before submission)*
+- **Repo:** https://github.com/Worr1s/cognee-hackathon-cold-email-brain
 - Slides / writeup: this `SUBMISSION.md` is the writeup.
-- Anything else:
-  [`demo_script.md`](demo_script.md) ·
-  [`PLAN.md`](PLAN.md)
+- Demo script: [`demo_script.md`](demo_script.md)
+- Strategy + winning theory: [`PLAN.md`](PLAN.md)
